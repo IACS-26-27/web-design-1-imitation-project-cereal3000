@@ -2,7 +2,7 @@
 .top {
   display:flex;
   flex-direction: row;
-  background-color: aquamarine;
+  background-color: #7fffd4;
   max-width: 4.6875in;
   height: 0.875in;
 }
@@ -17,7 +17,7 @@
 }
 
 .percent {
-  margin-right: 0px;
+  margin-left: auto;
   background-color: green;
   color: rgb(255,255,255);
   padding: 0.125in;
