@@ -9,6 +9,7 @@
 
 .companypicture {
   align-self: flex-start;
+  /*width: (FIND WIDTH) */
 }
 
 .title {
@@ -20,20 +21,38 @@
   margin-left: auto;
   background-color: green;
   color: rgb(255,255,255);
-  padding: 0.125in;
+  padding-left: 0.125in;
+  padding-right: 0.125in;
   padding-top: 0.1875in;
   padding-bottom: 0.1875in;
   font-size: 20px;
   margin-top: 0.15625in;
+  margin-bottom: 0.125in;
 }
 
 .yap {
   background-color:aquamarine;
-
-  max-width: 3.9375in;
+  max-width: 4.25in;
   padding-left: 0.25in;
   padding-right: 0.5in;
   padding-bottom: 0.125in;
   padding-top: 0.125in;
   height: 1in;
+  font-size: 16px;
+}
+.midtitle {
+  max-width: 4.6875in;
+}
+
+.toptxt {
+  padding-left: 0.25in;
+}
+
+.middle {
+  max-width: 4.6875in;
+  display: flex;
+}
+
+.list {
+
 }
