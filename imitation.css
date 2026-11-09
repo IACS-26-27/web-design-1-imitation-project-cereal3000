@@ -5,52 +5,81 @@
   background-color: #7fffd4;
   max-width: 4.6875in;
   height: 0.875in;
+  padding-top: 0.15625in;
 }
 
 .companypicture {
   align-self: flex-start;
-  /*width: (FIND WIDTH) */
+  width: 0.6875in;
+  height: 0.5625in;
+  padding-left: 0.15625in;
 }
 
 .title {
   text-transform: uppercase;
-  line-height: 0.1875in;
+  line-height: 0px;
+  padding-bottom: 0.125in;
+  padding-right: 0.1875in;
+  text-align: center;
+  padding-top: 0.09375in;
+  height: 0.4375in;
+  width: 1.1875in;
+  color: green
+}
+
+.smaller {
+  font-size: 14px;
+}
+
+.bigger {
+  font-size: 19px;
 }
 
 .percent {
-  margin-left: auto;
+  display:flex;
+  flex-direction: column;
   background-color: green;
   color: rgb(255,255,255);
   padding-left: 0.125in;
   padding-right: 0.125in;
-  padding-top: 0.1875in;
-  padding-bottom: 0.1875in;
-  font-size: 20px;
-  margin-top: 0.15625in;
-  margin-bottom: 0.125in;
+    padding-top: 0.1875in;
+  margin-bottom: 0.09375in;
+  kerning: 0.02in;
+  width: 2.5in;
+  height: 0.5625in;
+  align-items: center;
+  font-size: 28px;
 }
 
 .yap {
   background-color:aquamarine;
-  max-width: 4.25in;
+  max-width: 4.6875in;
+  height: 1in;
+}
+
+.paragraph {
   padding-left: 0.25in;
   padding-right: 0.5in;
   padding-bottom: 0.125in;
   padding-top: 0.125in;
-  height: 1in;
   font-size: 16px;
 }
+
 .midtitle {
   max-width: 4.6875in;
 }
 
 .toptxt {
   padding-left: 0.25in;
+  height: 0.25in;
+  background-color: rgb(30,200,0);
 }
 
 .middle {
   max-width: 4.6875in;
   display: flex;
+  height: 1.9375in;
+  background-color: rgb(30, 200, 0);
 }
 
 .list {
