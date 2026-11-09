@@ -1,1 +1,39 @@
 /* CSS for your imitation here */
+.top {
+  display:flex;
+  flex-direction: row;
+  background-color: aquamarine;
+  max-width: 4.6875in;
+  height: 0.875in;
+}
+
+.companypicture {
+  align-self: flex-start;
+}
+
+.title {
+  text-transform: uppercase;
+  line-height: 0.1875in;
+}
+
+.percent {
+  margin-right: 0px;
+  background-color: green;
+  color: rgb(255,255,255);
+  padding: 0.125in;
+  padding-top: 0.1875in;
+  padding-bottom: 0.1875in;
+  font-size: 20px;
+  margin-top: 0.15625in;
+}
+
+.yap {
+  background-color:aquamarine;
+
+  max-width: 3.9375in;
+  padding-left: 0.25in;
+  padding-right: 0.5in;
+  padding-bottom: 0.125in;
+  padding-top: 0.125in;
+  height: 1in;
+}
