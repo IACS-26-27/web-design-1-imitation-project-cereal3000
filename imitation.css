@@ -10,25 +10,15 @@
 
 .companypicture {
   align-self: flex-start;
-  width: 0.6875in;
-  height: 0.5625in;
+  width: 1.78125in;
+  height: 0.59375in;
   padding-left: 0.15625in;
+  margin-right: 0.1875in;
 }
 
 img {
-  height: 130%;
-}
-
-.title {
-  text-transform: uppercase;
-  line-height: 0px;
-  padding-bottom: 0.125in;
-  padding-right: 0.1875in;
-  text-align: center;
-  padding-top: 0.09375in;
-  height: 0.4375in;
-  width: 1.1875in;
-  color: green
+  height: 100%;
+  width: 100%;
 }
 
 .smaller {
@@ -49,8 +39,8 @@ img {
     padding-top: 0.1875in;
   margin-bottom: 0.09375in;
   kerning: 0.02in;
-  width: 2.5in;
-  height: 0.5625in;
+  width: 2.53125in;
+  height: 0.59375in;
   align-items: center;
   font-size: 28px;
 }
