@@ -15,6 +15,10 @@
   padding-left: 0.15625in;
 }
 
+img {
+  height: 130%;
+}
+
 .title {
   text-transform: uppercase;
   line-height: 0px;
@@ -58,11 +62,11 @@
 }
 
 .paragraph {
-  padding-left: 0.25in;
-  padding-right: 0.5in;
+  padding-left: 0.27in;
+  padding-right: 0.48in;
   padding-bottom: 0.125in;
   padding-top: 0.125in;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .midtitle {
@@ -72,6 +76,7 @@
 .toptxt {
   padding-left: 0.25in;
   height: 0.25in;
+  padding-top: 0.15625in;
   background-color: rgb(30,200,0);
 }
 
