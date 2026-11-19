@@ -1,1 +1,101 @@
 /* CSS for your imitation here */
+.top {
+  display:flex;
+  flex-direction: row;
+  background-color: #9adfd1;
+  max-width: 4.6875in;
+  height: 0.6875in;
+  padding-top: 0.15625in;
+}
+
+.companypicture {
+  align-self: flex-start;
+  width: 1.78125in;
+  height: 0.59375in;
+  padding-left: 0.15625in;
+  margin-right: 0.1875in;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+.smaller {
+  font-size: 14px;
+}
+
+.bigger {
+  font-size: 19px;
+}
+
+.percent {
+  display:flex;
+  font-family: "Aleo", serif;
+  flex-direction: column;
+  background-color: rgb(64, 129, 14);
+  color: rgb(255,255,255);
+  width: 2.53125in;
+  height: 0.59375in;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0.125in;
+  padding-right: 0.125in;
+  font-size: 25px;
+}
+
+.yap {
+  background-color:#9adfd1;
+  max-width: 4.6875in;
+  height: 1in;
+}
+
+.paragraph {
+  font-family: "Google Sans Flex";
+  padding-left: 0.27in;
+  padding-right: 0.48in;
+  padding-bottom: 0.125in;
+  padding-top: 0.125in;
+  font-size: 14.9px;
+}
+
+.midtitle {
+  max-width: 4.6875in;
+}
+
+.toptxt {
+  font-family: "Aleo", serif;
+  padding-left: 0.25in;
+  height: 0.25in;
+  padding-top: 0.15625in;
+  background-color: rgb(97,184,30);
+}
+
+.middle {
+  font-family: "Google Sans Flex";
+  max-width: 4.6875in;
+  display: flex;
+  height: 1.9375in;
+  background-color: rgb(97, 184, 30);
+}
+
+.list {
+font-size: 11px;
+width: 2.71875in;
+}
+
+.yap2 {
+  width: 1.96875in;
+  font-size: 11px;
+  font-weight: bold;
+  padding-left: 0.1875in;
+  padding-right: 0.125in;
+}
+
+.google-sans-flex {
+  font-family: "Google Sans Flex", sans-serif;
+}
+
+.aleo {
+  font-family: "Aleo", serif;
+}
